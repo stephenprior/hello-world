@@ -1,2 +1,5 @@
 # hello-world
-Just another repository.
+
+Hi World,
+
+This is the beginning of my Node.js journey. I hope you like the code you see.
